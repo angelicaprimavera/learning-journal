@@ -1,5 +1,8 @@
 # Angelica's Learning Journal
 
+## Introduction :relaxed:
+Who am I? 5.5 year Amazonian, program turned product manager, Seattle native, learning code
+
 ## Growth Mindset
 
 1. Challenges & Obstacles
