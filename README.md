@@ -16,6 +16,8 @@ Who am I? 5.5 year Amazonian, program turned product manager, Seattle native, le
 
 ## Top 3 Reminders about Growth Mindset
 
-1. Hit the snooze button and sleep as much as you need **but** get your ~ass~ butt in gear once you get out of bed!
-1. The more you learn here the better you'll be able to support your team. They'll appreciate you for it.
-1. Set aside time to practice every day even when something else seems more important. Make this a priority.
+[ ] Hit the snooze button and sleep as much as you need **but** get your ~ass~ butt in gear once you get out of bed!
+
+[ ] The more you learn here the better you'll be able to support your team. They'll appreciate you for it.
+
+[x] Set aside time to practice every day even when something else seems more important. Make this a priority.
