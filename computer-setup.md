@@ -1,6 +1,6 @@
-# The Coder's Computer
+# The Terminal
 
-## Read the article
+## Read the article: The coder's computer
 It's hard when you are a beginner to know what you need and be able to decide. I don't know yet what features will be useful and I don't know how to code well enough to be able to test it yet. I found the piece about code completion to be interesting - it looks like most of the editors have this feature.
 
 ### My list
