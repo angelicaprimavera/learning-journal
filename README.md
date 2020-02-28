@@ -3,6 +3,10 @@
 ## Introduction :relaxed:
 Who am I? 5.5 year Amazonian, program turned product manager, Seattle native, learning code
 
+## Table of Contents
+- [Learning Markdown](learning-markdown.md)
+- [Computer Setup](computer-setup.md)
+
 ## Growth Mindset
 
 1. Challenges & Obstacles
